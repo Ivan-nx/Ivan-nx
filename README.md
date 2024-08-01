@@ -1,7 +1,6 @@
 ### Olá, me chamo Ivan! Bem vindo ao meu perfil 👋
 
-- 👨‍🎓 Estou cursando Análise e Desenvolvimento De Sistemas
-- 🧑‍💻📚 Estudando Typescript
+- 👨‍🎓 Formado em Análise e Desenvolvimento De Sistemas
 - 🔭 Atualmente estou trabalhando com front-end
 
 ##
